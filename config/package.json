@@ -1,0 +1,8 @@
+{
+	"name": "config",
+	"version": "1.0.0",
+	"description": "config for NodeJS",
+	"main": "index.js",
+	"scripts": {},
+	"license": "ISC"
+}

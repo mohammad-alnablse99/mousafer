@@ -1,0 +1,37 @@
+{
+	"port": 4433,
+
+	"database": {
+		"mongodb": {
+			"uri": "mongodb+srv://muhammad:79uoik.m@cluster0.1tpau.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+			"dbName": "store"
+		}
+	},
+
+	"jwt": {
+		"accessToken": {
+			"key": "48f234b26ecdd84220f1a8a85d13496874041d6b1eab09c4506ae152c2bebd0a",
+			"expirationDuration": "2d"
+		},
+		"refreshToken": {
+			"key": "fabff2fa3833326be2e4170e1ad3e5c1d4639752197bc5175dfb75c51f737dbb",
+			"expirationDuration": "60d"
+		}
+	},
+
+	"bcrypt": {
+		"rounds": 10
+	},
+
+	"mail": {
+		"email": "",
+		"password": "",
+		"service": "",
+		"port": ""
+	},
+
+	"assetsPath": {
+		"private": "assets/private",
+		"public": "assets/public"
+	}
+}

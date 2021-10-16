@@ -1,0 +1,12 @@
+{
+	"model": "User",
+	"documents": [
+		{
+			"_id": "6026fe33328dcf2310b6aabb",
+			"name": "User Name",
+			"type": "admin",
+			"email": "mohammad.alny@gmail.com",
+			"password": "1234567890"
+		}
+	]
+}

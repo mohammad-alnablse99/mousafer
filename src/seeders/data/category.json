@@ -1,0 +1,13 @@
+{
+	"model": "Test",
+	"documents": [
+		{
+			"_id": "599ecc6f368f7c33580e777c",
+			"name": "Test 1"
+		},
+		{
+			"_id": "599ecc6f368f7c33580e877b",
+			"name": "Test 2"
+		}
+	]
+}
